@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
