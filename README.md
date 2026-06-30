@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Divide and Conquer
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1051-height-checker) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
