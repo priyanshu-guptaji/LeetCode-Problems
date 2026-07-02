@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
