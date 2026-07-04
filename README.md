@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
