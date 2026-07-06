@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1323-maximum-69-number) |
+| [2119-a-number-after-a-double-reversal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2235-add-two-integers) |
 ## Stack
