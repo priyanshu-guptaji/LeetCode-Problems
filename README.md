@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1323-maximum-69-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2235-add-two-integers) |
 ## Stack
 |  |
