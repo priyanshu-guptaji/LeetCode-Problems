@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2235-add-two-integers) |
+| [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2652-sum-multiples) |
 ## Stack
 |  |
@@ -162,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0258-add-digits) |
+| [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
