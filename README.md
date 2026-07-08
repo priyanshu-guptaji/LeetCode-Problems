@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2652-sum-multiples) |
 ## Stack
 |  |
 | ------- |
