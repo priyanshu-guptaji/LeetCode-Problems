@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0338-counting-bits) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Hash Table
