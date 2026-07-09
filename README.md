@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0258-add-digits) |
