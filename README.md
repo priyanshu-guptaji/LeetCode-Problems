@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
+| [2706-buy-two-chocolates](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2706-buy-two-chocolates](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1323-maximum-69-number) |
+| [2706-buy-two-chocolates](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
 | ------- |
