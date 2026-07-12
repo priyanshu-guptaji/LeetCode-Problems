@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
