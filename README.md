@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
