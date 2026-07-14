@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0944-delete-columns-to-make-sorted](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 ## Dynamic Programming
