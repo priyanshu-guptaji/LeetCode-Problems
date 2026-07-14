@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0944-delete-columns-to-make-sorted](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
