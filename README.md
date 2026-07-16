@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
