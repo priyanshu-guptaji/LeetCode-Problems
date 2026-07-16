@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 ## Sorting
@@ -250,8 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
