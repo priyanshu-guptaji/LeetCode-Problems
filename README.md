@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
