@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
