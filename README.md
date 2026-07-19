@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0079-word-search) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
