@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0566-reshape-the-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
