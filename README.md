@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
