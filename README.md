@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
