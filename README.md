@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1572-matrix-diagonal-sum](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Divide and Conquer
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 ## Greedy
 |  |
 | ------- |
