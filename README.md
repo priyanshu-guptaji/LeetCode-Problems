@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0944-delete-columns-to-make-sorted](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2652-sum-multiples) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0197-rising-temperature) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
