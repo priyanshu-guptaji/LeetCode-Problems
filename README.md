@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0197-rising-temperature) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Combinatorics
 |  |
 | ------- |
