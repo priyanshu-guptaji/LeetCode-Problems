@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
