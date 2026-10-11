@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/priyanshu-guptaji/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Linked List
 |  |
 | ------- |
